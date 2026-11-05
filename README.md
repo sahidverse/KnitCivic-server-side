@@ -188,6 +188,7 @@ MongoDB collections are organized to support efficient data retrieval and manage
              CLIENT
 ```
 
+
 ## 🚧 Future Improvements
 
 - Advanced API validation and error handling.
@@ -214,7 +215,7 @@ Contributions and suggestions are welcome!
 
 )
       
-      
+
 ---
 
 <div align="center">
