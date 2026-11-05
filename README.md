@@ -187,8 +187,6 @@ MongoDB collections are organized to support efficient data retrieval and manage
                v
              CLIENT
 ```
-
-
 ## 🚧 Future Improvements
 
 - Advanced API validation and error handling.
