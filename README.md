@@ -211,7 +211,7 @@ Contributions and suggestions are welcome!
 **KnitCivic Client** — The frontend application built with Next.js, TypeScript, Tailwind CSS, shadcn/ui, and HeroUI.
 
 [View Frontend Repository](
-       
+
 )
 
 ---
@@ -225,5 +225,6 @@ Contributions and suggestions are welcome!
 Built with ❤️ using Node.js, Express & MongoDB.
 
 <sub>© 2026 KnitCivic. All Rights Reserved.</sub>
+
 
 </div>
