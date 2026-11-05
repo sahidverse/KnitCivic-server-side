@@ -223,8 +223,6 @@ Contributions and suggestions are welcome!
 **Connecting Technology with Community Impact.**
 
 Built with ❤️ using Node.js, Express & MongoDB.
-
+   
 <sub>© 2026 KnitCivic. All Rights Reserved.</sub>
-
-
 </div>
