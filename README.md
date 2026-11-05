@@ -160,8 +160,6 @@ The database supports:
 
 MongoDB collections are organized to support efficient data retrieval and management.
 
-
-
 ## 🔄 Application Workflow
 
 ```text
